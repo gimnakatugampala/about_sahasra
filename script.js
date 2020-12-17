@@ -173,7 +173,7 @@ const question = [
         ]
     },
     {
-        questions:"If he gets a wish what will be do ?",
+        questions:"If he gets a wish what will he do ?",
         answers:[
             {text:'wish to all the dreams come true',correct:true},
             {text:'Travel to the Future',correct:false},
@@ -211,10 +211,10 @@ const question = [
     {
         questions:"What does his dream wife like for him ?",
         answers:[
-            {text:'Strong Woman (Ganigen Guti kanawa)',correct:false},
-            {text:'Emotional Woman',correct:false},
-            {text:'Patient Woman',correct:true},
-            {text:'Intelligent Woman',correct:false}
+            {text:'Strong Wife',correct:false},
+            {text:'Emotional Wife',correct:false},
+            {text:'Patient Wife',correct:true},
+            {text:'Intelligent Wife',correct:false}
         ]
     },
     {
@@ -245,7 +245,7 @@ const question = [
         ]
     },
     {
-        questions:"One person who has influenced you him?",
+        questions:"One person who has influenced  him?",
         answers:[
             {text:'Manjula Sir',correct:true},
             {text:'Sandro',correct:false},
